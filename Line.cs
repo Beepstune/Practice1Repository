@@ -146,7 +146,7 @@ namespace Practice1
             double[] angles = l1.TriangleAnglesWithX(l2);
             Console.WriteLine(angles[0]);
             Console.WriteLine(angles[1]);
-            Console.WriteLine(angles[2]);
+            Console.WriteLine(angles[2] + "Sasha");
         }
     }
 }
